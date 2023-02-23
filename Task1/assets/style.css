@@ -1,0 +1,98 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #212529;
+    color: #fff;
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+    padding-left: 1rem;
+  }
+  
+  .navbar ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .navbar li {
+    margin-right: 2rem;
+  }
+  
+  .main section {
+    padding: 80px 0;
+  }
+  body{
+    background-image: url("./image/sea.jfif");
+    background-repeat: no-repeat;
+    height: 2rem;
+  }
+  .image{
+    text-align: center;
+    margin-top: 10rem;
+  }
+  .image img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+
+  }
+  
+  .first-letters{
+    color: #fff;
+    text-align: center;
+  }
+
+  .fwb img{
+    width: 850;
+    height: 320;
+  }
+  .fwb {
+    display: inline-block;
+    background-size: cover;
+    background-position: center;
+    color: #000;
+    padding: 80px;
+    text-align: center;
+  }
+  
+  .fwb h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+    background-color: #fff;
+  }
+  
+  .fwb p {
+    font-size: 24px;
+    margin-bottom: 40px;
+    background-color: #fff;
+  }
+  
+  .ebi {
+    background-size: cover;
+    background-position: center;
+    color: #000;
+    padding: 80px;
+    text-align: center;
+  }
+  
+  .ebi h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  .ebi p {
+    font-size: 24px;
+    margin-bottom: 40px;
+  }
+  
+  footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #212529;
+    color: #fff;
+  }
